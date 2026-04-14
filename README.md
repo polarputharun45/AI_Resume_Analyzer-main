@@ -1,12 +1,3 @@
-<h1 align="center" id="title">Resume-Analyzer</h1>
-
-<p align="center"><img src="https://socialify.git.ci/chidvi123/AI_Resume_Analyzer/image?language=1&amp;name=1&amp;owner=1&amp;theme=Dark" alt="project-image"></p>
-
-<p align="center">
-  <a href="#project-structure">Project Structure</a> •
-  <a href="#preview">Preview</a> •
-  <a href="#Author">Contact</a>
-</p>
 
 
 ### AI Resume Analyzer
