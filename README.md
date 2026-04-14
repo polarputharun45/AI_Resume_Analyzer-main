@@ -318,10 +318,10 @@ The project demonstrates practical applications of NLP, analytics, and system de
 
 <h2 id="author">Author</h2>
 
-Developed by **Chidvilas**
+Developed by **Polarpu Tharun**
 
 
-📧 Email: [palarpachidvilas2419@gmail.com](mailto:palarpachidvilas2419@gmail.com) 
+📧 Email: [tharunsurya1729@gmail.com](mailto:tharunsurya1729@gmail.com) 
 
 ## Contributions
 
